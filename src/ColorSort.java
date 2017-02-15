@@ -7,10 +7,9 @@ public class ColorSort {
    }
    
    public static void reorder (Color[] balls) {
-      // Siia tuleb minu kood
+      // Siia tuleb minu koodrsfsdfsfsfdsfdsf
       return;
    }
-
 
 }
 
